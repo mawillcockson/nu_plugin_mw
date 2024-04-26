@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "nu-plugin-mw"
+version = "0.0.0"
+description = "plugins for nushell, for myself"
+authors = ["Matthew W <matthew@willcockson.family>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

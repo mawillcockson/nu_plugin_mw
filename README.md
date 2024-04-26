@@ -1,2 +1,5 @@
 # nu_plugin_mw
-Plugin for nushell: https://www.nushell.sh/book/plugins.html
+
+A plugin for [nushell][nushell plugins].
+
+[nushell plugins]: <https://www.nushell.sh/book/plugins.html>
